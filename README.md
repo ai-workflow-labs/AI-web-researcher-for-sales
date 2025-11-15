@@ -1,4 +1,5 @@
 <img width="711" height="303" alt="image" src="https://github.com/user-attachments/assets/8fd5ac12-08c6-445d-8381-40813dc998f2" />
+
 # 🧠 Automated Account Research Workflow (AI + Web)
 
 This workflow automates account research by using AI to search the web and extract structured information — eliminating the manual research normally done by sales reps during prospecting.
